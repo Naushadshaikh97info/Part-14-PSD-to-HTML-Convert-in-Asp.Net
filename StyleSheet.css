@@ -1,0 +1,240 @@
+﻿body
+{
+}
+
+#templatemo_header
+{
+    position: relative;
+    width: 1343px;
+    height: 75px;
+    background: url(image/menuline.jpg);
+    z-index: 3;
+    margin-left: -148px;
+}
+
+#templatemo_menu
+{
+    float: left;
+    width: 1064px;
+    margin-left: 133px;
+}
+#templatemo_menu ul
+{
+    margin: 0;
+    padding: 4px 0;
+    list-style: none;
+}
+#templatemo_menu ul li
+{
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 3px 12px 8px 10px;
+    background: url(image/menupline.png) no-repeat right center;
+}
+#templatemo_menu ul li a
+{
+    display: block;
+    float: left;
+    width: 130px;
+    height: 16px;
+    padding-top: 42px;
+    text-align: center;
+    color: #FFCC29;
+    background-position: center top;
+    background-repeat: no-repeat;
+    margin-top: -5px;
+}
+
+#templatemo_menu ul li a:hover, #templatemo_menu ul li a.selected
+{
+    color: #fff;
+}
+#templatemo_menu ul li a.home
+{
+    background-image: url(./image/home.png);
+}
+#templatemo_menu ul li a.about
+{
+    background-image: url(image/about-us.png);
+}
+#templatemo_menu ul li a.ourservice
+{
+    background-image: url(image/our-services.png);
+}
+#templatemo_menu ul li a.tourpack
+{
+    background-image: url(image/packages.png);
+}
+#templatemo_menu ul li a.workwithus
+{
+    background-image: url(image/work-withus.png);
+}
+#templatemo_menu ul li a.contact
+{
+    background-image: url(image/contact-us.png);
+}
+#templatemo_menu ul li a.harofaro
+{
+    background-image: url(image/harofarozome.png);
+}
+#templatemo_menu ul li.last
+{
+    background: none;
+}
+
+
+.yellowline
+{
+    margin-left: -155px;
+}
+.slider2
+{
+    margin-top: 111px;
+}
+.name1
+{
+    background-color: #646566;
+    color: #fbfbfb;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: -23px;
+    position: relative;
+}
+.name2
+{
+    background-color: #646566;
+    color: #fbfbfb;
+    margin-left: 3px;
+    margin-right: -3px;
+    margin-top: -23px;
+    position: relative;
+}
+.test
+{
+    width: 224px;
+    height: 110px;
+    margin-top: 10px;
+    border: 3px solid black;
+    background-color: #F3F3F3;
+}
+.textbox1
+{
+    background-color: #643f28;
+    border-radius: 6px;
+    color: White;
+    height: 27px;
+    width: 166px;
+    border: 0 none;
+}
+.textarea
+{
+    background-color: #643f28;
+    border: 0 none;
+    border-radius: 6px;
+    color: White;
+    height: 70px;
+    margin-top: 11px;
+    width: 510px;
+}
+.followus
+{
+margin-left: 117px;
+    margin-top: -49px;
+}
+.followus img
+{
+    margin-left:-2px;
+}
+.contactus
+{
+    float: left;
+    height: 330px;
+    width: 278px;
+}
+.quick
+{
+    float: right;
+    height: 330px;
+    margin-left: 25px;
+    text-align: justify;
+    width: 520px;
+}
+.quick input
+{
+    color: #B7A2A3;
+}
+.quick textarea
+{
+    color: #B7A2A3;
+}
+.btn
+{
+    background-color: #643f28;
+    border: 0 none;
+    border-radius: 6px;
+    color: White;
+    height: 35px;
+    margin-right: 20px;
+    margin-top: 15px;
+    width: 81px;
+    cursor:pointer;
+}
+
+#menu1 a
+{
+    font-size: 15px;
+    color: #B7A2A3;
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
+#menu1 image
+{
+}
+#menu1 a:visited
+{
+    text-decoration: none;
+}
+#menu1 a:hover
+{
+    text-decoration: underline;
+}
+.footerline
+{
+    background-image: url("./image/sliderline.png");
+    height: 68px;
+    margin-left: -11px;
+    margin-top: -76px;
+    width: 1345px;
+}
+.last
+{
+    float: right;
+    margin-top: -70px;
+}
+
+
+.packages h2
+{
+    color: #FFCC29;
+    margin-left: 22px;
+}
+.packages li
+{
+    background: url("./image/play.png") no-repeat scroll left 5px rgba(0, 0, 0, 0);
+    margin-left: -25px;
+}
+
+.packages li a
+{
+    color: #B7A2A3;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 10px;
+    padding-left: 8px;
+}
+.packages li a:hover
+{
+    color: #F9F500;
+}
